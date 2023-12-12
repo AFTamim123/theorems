@@ -1,8 +1,7 @@
 # Chicken McNugget Theorem / Postage Stamp Problem / Frobenius Coin Problem
 For any two relatively prime positive integers m,n.
 The greatest integer that cannot be written in the form am + bn is (mn-m-n).
-There are exactly (m - 1)(n - 1)/2 positive integers which 
-cannot be expressed in the form am + bn
+There are exactly (m - 1)(n - 1)/2 positive integers which cannot be expressed in the form am + bn
 
 problem:
 https://codeforces.com/contest/1526/problem/B
