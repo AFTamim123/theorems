@@ -1,0 +1,19 @@
+#Shortcut to convert binary to decimal
+suppose for 71
+
+white down all the twos power
+then if the twos power is less then 71 
+decrease 71 by this number and write 1
+if the twos power is bigger write 0
+
+64  32 16 8  4  2  1
+1                       (1 cz 71>64) remain 71-64=7 
+1   0  0  0              (0 cz 7 less than the numbers ) 
+1   0  0  0  1           (1 cz 7>4) remain 7-6=3
+1   0  0  0  1  1         (1 cz 3>2) remain 3-2=1
+1   0  0  0  1  1  1
+
+the binary form of 71 is 1000111
+
+problem:
+https://codeforces.com/contest/1913/problem/C
