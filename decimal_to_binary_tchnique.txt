@@ -1,8 +1,8 @@
 #Shortcut to convert binary to decimal
 suppose for 71
 
-white down all the twos power
-then if the twos power is less then 71 
+write down all the two's power then 
+if the twos power is less then 71 
 decrease 71 by this number and write 1
 if the twos power is bigger write 0
 
