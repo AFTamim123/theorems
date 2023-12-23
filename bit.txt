@@ -1,4 +1,3 @@
-ai mod 2^j
-  corresponds to the last j
- digits in the binary representation of ai
+x mod 2^j corresponds to the last j digits in the binary representation of x
+problem:
 https://codeforces.com/contest/1909/problem/B
