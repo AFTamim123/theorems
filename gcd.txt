@@ -1,0 +1,7 @@
+if we take the gcd of the difference of aray element
+the for all i a[i]%gcd will be same
+https://codeforces.com/contest/1826/problem/B
+https://codeforces.com/contest/1909/problem/B
+
+and if want to get 2 distinct a[i]%x for all
+i then it would be x = 2*gcd
