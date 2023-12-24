@@ -5,3 +5,10 @@ https://codeforces.com/contest/1909/problem/B
 
 and if want to get 2 distinct a[i]%x for all
 i then it would be x = 2*gcd
+
+
+
+product of two same prime is composite but  two distinct prime is not strongly composite.
+But product of three distinct prime is strongly composite.
+strongly composte -> prime divisor<=composite divisor
+https://codeforces.com/problemset/problem/1823/C
