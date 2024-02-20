@@ -17,3 +17,4 @@ the binary form of 71 is 1000111
 
 problem:
 https://codeforces.com/contest/1913/problem/C
+https://codeforces.com/contest/1312/problem/C
